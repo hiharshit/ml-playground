@@ -1,0 +1,16 @@
+[project]
+name = "ml-playground"
+version = "0.1.0"
+description = "A collection of machine learning projects"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "requests",
+    "scipy",
+    "jupyter",
+]
